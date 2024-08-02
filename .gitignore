@@ -1,0 +1,6 @@
+.env
+__pcycache__/
+.vscode/
+*.json
+src/utils.py
+data/
